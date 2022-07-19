@@ -1,5 +1,5 @@
 function App() {
-
+//app
     const [countryData, setCountryData] = React.useState([]);
     const [widthOfBar, setWidthOfBar] = React.useState(5);
     const [dataType, setDataType] = React.useState("casesPerOneMillion")
